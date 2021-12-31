@@ -9,3 +9,9 @@ const quarterOf = (month) => {
 };
 
 console.log(quarterOf(3));
+
+
+// const quarterOf = (month) => {
+//   // Your code here
+//   return Math.ceil(month / 3);
+// };
